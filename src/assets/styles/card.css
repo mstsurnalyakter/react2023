@@ -1,0 +1,23 @@
+h1{
+    text-shadow: 2px 2px 2px #f50454;
+}
+.card{
+width: 250px;
+background-color: purple;
+border-radius: 10px;
+box-shadow: 1px 4px 4px #616060;
+margin: 1rem;
+}
+
+.cardTitle{
+    color: #0f0f0f;
+    font-weight: bolder;
+    text-shadow: 1px 2px 1px gray ;
+    font-size: 2rem;
+}
+
+.cardDate{
+    color: gray;
+    text-shadow: 1px 2px 1px #333;
+
+}
